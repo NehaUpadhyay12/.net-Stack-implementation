@@ -1,0 +1,6 @@
+/Users/nehaupadhyay/Neha_Stuff/Git_Downloads/Dot-Net-Stack-Implementation/SortStack/bin/Debug/SortStack.exe
+/Users/nehaupadhyay/Neha_Stuff/Git_Downloads/Dot-Net-Stack-Implementation/SortStack/bin/Debug/SortStack.pdb
+/Users/nehaupadhyay/Neha_Stuff/Git_Downloads/Dot-Net-Stack-Implementation/SortStack/obj/x86/Debug/SortStack.csprojAssemblyReference.cache
+/Users/nehaupadhyay/Neha_Stuff/Git_Downloads/Dot-Net-Stack-Implementation/SortStack/obj/x86/Debug/SortStack.csproj.CoreCompileInputs.cache
+/Users/nehaupadhyay/Neha_Stuff/Git_Downloads/Dot-Net-Stack-Implementation/SortStack/obj/x86/Debug/SortStack.exe
+/Users/nehaupadhyay/Neha_Stuff/Git_Downloads/Dot-Net-Stack-Implementation/SortStack/obj/x86/Debug/SortStack.pdb
