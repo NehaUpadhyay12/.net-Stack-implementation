@@ -1,0 +1,6 @@
+/Users/nehaupadhyay/Neha_Stuff/Git_Downloads/Dot-Net-Stack-Implementation/SetOfStacks/bin/Debug/SetOfStacks.exe
+/Users/nehaupadhyay/Neha_Stuff/Git_Downloads/Dot-Net-Stack-Implementation/SetOfStacks/bin/Debug/SetOfStacks.pdb
+/Users/nehaupadhyay/Neha_Stuff/Git_Downloads/Dot-Net-Stack-Implementation/SetOfStacks/obj/x86/Debug/SetOfStacks.csprojAssemblyReference.cache
+/Users/nehaupadhyay/Neha_Stuff/Git_Downloads/Dot-Net-Stack-Implementation/SetOfStacks/obj/x86/Debug/SetOfStacks.csproj.CoreCompileInputs.cache
+/Users/nehaupadhyay/Neha_Stuff/Git_Downloads/Dot-Net-Stack-Implementation/SetOfStacks/obj/x86/Debug/SetOfStacks.exe
+/Users/nehaupadhyay/Neha_Stuff/Git_Downloads/Dot-Net-Stack-Implementation/SetOfStacks/obj/x86/Debug/SetOfStacks.pdb
